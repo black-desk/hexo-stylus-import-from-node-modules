@@ -1,0 +1,11 @@
+{
+  "name": "hexo-stylus-import-from-node-modules",
+  "version": "0.1.0",
+  "description": "Append node_modules to stylus paths for hexo-render-stylus",
+  "scripts": {},
+  "author": "Chen Linxuan",
+  "license": "GPLv3",
+  "dependencies": {
+    "node_modules-path": "^2.0.8"
+  }
+}
